@@ -27,6 +27,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `pista`
 --
 CREATE DATABASE IF NOT EXISTS deportes_db;
+use deportes_db;
 
 CREATE TABLE `pista` (
   `id` int(11) NOT NULL,
